@@ -31,6 +31,8 @@ Overall, the goal is to infer modes of the given trajectory. This is being evalu
   
 Here, "test_z_sampling" repeatedly samples the mode sequence until the Gibbs sampler converges to the real posterior. The mode-specific dynamical parameters can be easily accessed through the SLDS object itself.
 
+"Heuristic.py" provides a simple heuristic measure of finding the mode-switching points in the trajectory serving as a baseline. It should be noted that this approach is not associated with the SLDS methodology itself.
+
 # Foundation & Theory
 Refer to the pdf for a more succinct description of the entire process. The references mentioned in the pdf are also an excellent source for further reading in that regard.
 
