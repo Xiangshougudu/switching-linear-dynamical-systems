@@ -12,6 +12,8 @@ class SLDS:
     .. [1] Fox, Emily B. "Bayesian nonparametric learning of complex
     dynamical phenomena." Diss. Massachusetts Institute of Technology,
     2009.
+
+    Contributors to Code: Matthias Schultheis, Sebastian Szelag
     """
 
 
